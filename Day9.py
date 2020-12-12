@@ -41,4 +41,6 @@ if __name__ == "__main__":
     minVal = min(encVals[start:end])
     maxVal = max(encVals[start:end])
 
+    print(start)
+
     print(minVal+maxVal)
